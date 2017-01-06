@@ -1,5 +1,10 @@
+html,
+body {
+  margin: 0;
+  padding: 0; }
+
 html {
-  background-color: #DADADA; }
+  background-color: #BBB; }
   html body:before, html body::before {
     content: '';
     display: block;
