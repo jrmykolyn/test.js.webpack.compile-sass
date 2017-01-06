@@ -1,0 +1,11 @@
+{
+  "name": "test.js.webpack.compile-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse R Mykolyn <jrmykolyn@gmail.com>",
+  "license": "ISC"
+}
